@@ -1,7 +1,7 @@
 ### Hi there, I'm Claudio Dellavedova 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://claudiodellavedova.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Inazashi?ref_src=twsrc%5Etfw)
+[![Website](https://img.shields.io/website?label=claudiodellavedova.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://claudiodellavedova.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Inazashi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Inazashi?ref_src=twsrc%5Etfw)
 
 ## I'm a Developer & Student!!
 
