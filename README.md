@@ -1,14 +1,9 @@
 ### Hi there, I'm Claudio Dellavedova 👋
 
-[![Website](https://img.shields.io/website?label=claudiodellavedova.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://claudiodellavedova.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Inazashi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Inazashi?ref_src=twsrc%5Etfw)
+## I'm a Developer!
 
-## I'm a Developer & Student!!
-
-- 🔭 I'm currently working as a freelance frontend developer!
-- 🌱 I’m currently working on my portfolio
+- 🔭 I'm currently working as  frontend developer!
 - 👯 I’m looking forward to collaborating with other developers
-- 🥅 2021 Goals: Building some interesting personal projects and learning new tech stacks
 - ⚡ Fun fact: I love to play chess / videogames
 
 ### Connect with me:
