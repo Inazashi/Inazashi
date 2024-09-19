@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I'm currently working as  frontend developer!
+- 🔭 I'm currently working as a fullstack developer!
 - 👯 I’m looking forward to collaborating with other developers
 - ⚡ Fun fact: I love to play chess / videogames
 
